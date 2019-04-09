@@ -1,9 +1,9 @@
 {
 "companyName": "Bleakfiber",
 "productName": "Anagram Hacker",
-"dataUrl": "Anagram Hacker OpenGL v1dot3.data.unityweb",
-"wasmCodeUrl": "Anagram Hacker OpenGL v1dot3.wasm.code.unityweb",
-"wasmFrameworkUrl": "Anagram Hacker OpenGL v1dot3.wasm.framework.unityweb",
+"dataUrl": "Anagram-Hacker-v1.3.data.unityweb",
+"wasmCodeUrl": "Anagram-Hacker-v1.3.wasm.code.unityweb",
+"wasmFrameworkUrl": "Anagram-Hacker-v1.3.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
